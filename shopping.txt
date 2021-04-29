@@ -4,7 +4,7 @@ apples
 bananas
 yogurt
 milk
-
+bread
 cereal
 eggs
 bacon
@@ -17,4 +17,7 @@ soup
 ice cream
 sugar
 flour
+chicken
+ground beef
+ice cream
 
